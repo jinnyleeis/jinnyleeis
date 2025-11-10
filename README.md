@@ -56,7 +56,7 @@
 ---
 
 ## 🎓 Education
-**Sogang University (B.A., Expected 2026)**  
+**Sogang University (B.A., Expected 2026.02)**  
 Philosophy · Art & Technology · Computer Science  
 Relevant Courses: Database Systems, OS, Networks, Algorithms, NLP
 
@@ -92,4 +92,5 @@ Implemented process scheduling & syscall pipelines in C for an educational OS ke
 
 
 ---
+
 
