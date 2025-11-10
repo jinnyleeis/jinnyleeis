@@ -54,6 +54,10 @@
 - Built a **BCNF-normalized MySQL schema (27 tables)** for a creator platform.  
 - Implemented **ENUM-based transaction & wallet workflow** ensuring financial traceability.
 
+### Ulift (Coding Valley) – Content Developer (Part-Time)‬
+2024.01 – 2024.05 
+- Authored and reviewed HTML/CSS/JS learning materials, ensuring clarity and technical accuracy.
+- Designed and validated coding exercises on DOM manipulation and responsive design.
 ---
 
 ## 🎓 Education
@@ -91,8 +95,11 @@ Implemented process scheduling & syscall pipelines in C for an educational OS ke
 ### CEOS Shinchon Startup Circle (19th Frontend / 20th Ops, 2024.03 - 2025.01) 
 - Participated in PetPlate frontend project
 
+### Sogang Univ. Art and Technology Conference 2022 — Event Planning Team‬
+- Sogang Univ. Art and Technology Conference 2022 — Event Planning Team‬
 
 ---
+
 
 
 
