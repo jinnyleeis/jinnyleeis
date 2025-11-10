@@ -96,9 +96,11 @@ Implemented process scheduling & syscall pipelines in C for an educational OS ke
 - Participated in PetPlate frontend project
 
 ### Sogang Univ. Art and Technology Conference 2022 — Event Planning Team‬
-- Sogang Univ. Art and Technology Conference 2022 — Event Planning Team‬
+- Participated in planning and execution of 2022 ATC’s Family Meeting, Guest Visit (GV), and‬
+‭ Homecoming events.
 
 ---
+
 
 
 
