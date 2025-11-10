@@ -28,14 +28,15 @@
 **Languages**: Python, SQL, C, C++, Javascript
 **Cloud & Data**: BigQuery, GCS, MySQL, Pandas  
 **AI / LLM**: Gemini Flash 2.0, OpenAI, LangChain, LangGraph  
-**Frameworks/Library**: Streamlit, FastAPI, Next.js, Tailwind 
+**Frameworks/Library**: Streamlit, FastAPI, Next.js
 **Others**: Git, ER Modeling, Pydantic
+
 
 ---
 
 ## 🚀 Experience
 
-### **Kearney Korea – Digital Transformation Division (Intern)**  
+### **Kearney Korea – Digital Transformation Division (Research Analyst)**  
 2025.07 – 2025.10
  | Designed data engineering pipelines and analytics solutions, integrating LLMs to automate insight reporting.
 
@@ -92,5 +93,6 @@ Implemented process scheduling & syscall pipelines in C for an educational OS ke
 
 
 ---
+
 
 
