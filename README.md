@@ -25,11 +25,11 @@
 ---
 
 ## 🛠️ Tech Stack
-**Languages**: Python, SQL, C, C++, Javascript
-**Cloud & Data**: BigQuery, GCS, MySQL, Pandas  
-**AI / LLM**: Gemini Flash 2.0, OpenAI, LangChain, LangGraph  
-**Frameworks/Library**: Streamlit, FastAPI, Next.js
-**Others**: Git, ER Modeling, Pydantic
+- **Languages**: Python, SQL, C, C++, Javascript
+- **Cloud & Data**: BigQuery, GCS, MySQL, Pandas  
+- **AI / LLM**: Gemini Flash 2.0, OpenAI, LangChain, LangGraph  
+- **Frameworks/Library**: Streamlit, FastAPI, Next.js
+- **Others**: Git, ER Modeling, Pydantic
 
 
 ---
@@ -93,6 +93,7 @@ Implemented process scheduling & syscall pipelines in C for an educational OS ke
 
 
 ---
+
 
 
 
