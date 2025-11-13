@@ -8,7 +8,7 @@
 - Passionate about leveraging cloud-scale data architecture to enable business insights
 
 ### Data Engineering & Analytics
-- Skilled in building scalable ETL and reporting pipelines that ensure data integrity and reproducibility.
+- Experienced with building scalable ETL and reporting pipelines that ensure data integrity and reproducibility.
 - Experienced with data modeling (Fact–Dimension, BCNF), DQ validation, and ELT orchestration using SQL & Python.
 - Experienced with cloud-native analytics architecture (BigQuery, GCS) and star-schema optimization for BI scalability.
 
