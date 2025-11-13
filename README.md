@@ -41,10 +41,10 @@
  | Designed data engineering pipelines and analytics solutions, integrating LLMs to automate insight reporting.
 
 
-- Rebuilt **IG/YouTube ETL pipelines** (Excel → Parquet → BigQuery),  
+- Built **IG ETL pipelines** (Excel → Parquet → BigQuery),  
   cutting preprocessing time **4h → 1h** with GCS orchestration (Step0–4).
 - Implemented **MERGE-based DQ validation** ensuring **100% KPI consistency**.
-- Designed **timestamp-based recrawling logic** → redundant queries ↓40%.  
+- Refactored **timestamp-based recrawling logic** → redundant queries ↓40%.  
 - Integrated **Gemini Flash 2.0 Video LLM** to generate video descriptions & automate creative/consumer insight reports.
 
 ### **Ludens – Fullstack Engineer (Startup)**  
