@@ -125,7 +125,7 @@ Relevant Courses: Database Systems, OS, Networks, Algorithms, NLP
   (NFT 구매 데이터를 기반으로 집단 지성을 활용해 인사이트를 생성하는 프로토타입을 개발했습니다.)
 
 ### CEOS Shinchon Startup Circle (19th Frontend / 20th Ops(운영진), 2024.03 - 2025.01) 
-- PetPlate (Frontend Engineer) [👉PetPlate 프로젝트](https://github.com/jinnyleeis/FrontEnd)
+- PetPlate (Frontend Engineer) [👉PetPlate 프로젝트](https://github.com/CEOS-PAT-PLATE/FrontEnd)
   - Developed Naver OAuth2.0 login and nutrition/favorites pages using Next.js 14, Recoil, and custom React Query hooks.
     (Next.js 14, Recoil, 커스텀 React Query 훅을 활용해 Naver OAuth2.0 로그인 및 일일 영양소 입력 ·즐겨찾기 페이지를 개발했습니다.)
   - Implemented a dynamic nutrition results page with reusable styled-components and Chart.js visualizations.     
@@ -137,6 +137,7 @@ Relevant Courses: Database Systems, OS, Networks, Algorithms, NLP
    (2022 ATC Family Meeting, Guest Visit (GV), Homecoming 행사의 기획 및 실행에 참여했습니다.)
 
 ---
+
 
 
 
