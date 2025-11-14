@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jiin Lee  
 
-### [🤖 Portfolio](jiinlee-portfolio.vercel.app)
+### [포트폴리오로 이동하기](jiinlee-portfolio.vercel.app)
 
 
 ## 🧠 About Me
@@ -102,6 +102,7 @@ Implemented process scheduling & syscall pipelines in C for an educational OS ke
 ‭ Homecoming events.
 
 ---
+
 
 
 
