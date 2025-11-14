@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Jiin Lee  
 
-## Portfolio | jiinlee-portfolio.vercel.app
+### [🤖 Portfolio](jiinlee-portfolio.vercel.app)
+
 
 ## 🧠 About Me
 - Analytical yet adaptable engineer who bridges data precision with creative insight.
@@ -101,6 +102,7 @@ Implemented process scheduling & syscall pipelines in C for an educational OS ke
 ‭ Homecoming events.
 
 ---
+
 
 
 
