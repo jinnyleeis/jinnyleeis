@@ -46,7 +46,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, SQL, C, C++, Javascript
+- **Languages**: Python, SQL, C, C++, Javascript, Typescript
 - **Cloud & Data**: BigQuery, GCS, MySQL, Pandas  
 - **AI / LLM**: Gemini Flash 2.0, OpenAI, LangChain, LangGraph  
 - **Frameworks/Library**: Streamlit, FastAPI, Next.js
@@ -137,6 +137,7 @@ Relevant Courses: Database Systems, OS, Networks, Algorithms, NLP
    (2022 ATC Family Meeting, Guest Visit (GV), Homecoming 행사의 기획 및 실행에 참여했습니다.)
 
 ---
+
 
 
 
