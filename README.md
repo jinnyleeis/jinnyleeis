@@ -12,8 +12,6 @@
   (복잡한 문제를 디버깅·규칙 정의·확장 가능한 파이프라인 설계를 통해 구조화합니다.)
 - Passionate about leveraging cloud-scale data architecture to enable business insights.         
   (클라우드 기반 데이터 아키텍처로 비즈니스 인사이트를 가능하게 만드는 데 열정이 있습니다.)
-- Pursue a development approach that secures data traceability and UI consistency by separating the Frontend UI and Data Layer.       
-  (Frontend–Data Layer 분리 설계를 통해 데이터 흐름의 추적성과 UI 일관성을 함께 확보하는 개발 방식을 지향합니다.)
 
 ### Data Engineering & Analytics
 - Experienced with building scalable ETL and reporting pipelines that ensure data integrity and reproducibility.          
