@@ -73,8 +73,8 @@
 2025.03 – 2025.07 | Developed full-stack features from database modeling to frontend UI
 
 
-- Built a **BCNF-normalized MySQL schema (27 tables)** for a creator platform.  
-- Implemented **ENUM-based transaction & wallet workflow** ensuring financial traceability.        
+- Designed ER Diagram based on business logic
+- Built a **BCNF-normalized MySQL schema (27 tables)** for a creator platform.    
   [👉 팬 커뮤니티 후원·정산 플랫폼 – 스키마 설계(ERD→논리 환원→BCNF→물리 구현)](https://jiinlee-portfolio.vercel.app/projects/7)
 
 
