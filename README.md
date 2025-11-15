@@ -63,7 +63,7 @@
 - Built **IG ETL pipelines** (Excel → Parquet → BigQuery), cutting preprocessing time **4h → 1h** with GCS orchestration (Step0–4).        
   [👉 대량의 Excel 데이터 기반 IG 댓글 온디맨드 배치 파이프라인 구축](https://jiinlee-portfolio.vercel.app/projects/1)
 - Implemented **MERGE-based DQ validation** ensuring **100% KPI consistency**.          
-  [👉 기간별 자산 리포트 개발과, 잘못된 집계 로직과 정합성 리팩터링](https://jiinlee-portfolio.vercel.app/projects/4)) 
+  [👉 기간별 자산 리포트 개발과, 집계 로직과 정합성 리팩터링](https://jiinlee-portfolio.vercel.app/projects/4)) 
 - Refactored **timestamp-based recrawling logic** → redundant queries ↓40%.  
 - Integrated **Gemini Flash 2.0 Video LLM** to generate video descriptions & automate creative/consumer insight reports.
 
