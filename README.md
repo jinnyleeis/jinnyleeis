@@ -19,7 +19,7 @@
 - Experienced with data modeling (Fact–Dimension, BCNF), DQ validation, and ELT orchestration using SQL & Python.         
   (Fact–Dimension 모델링, BCNF 정규화, DQ 검증, SQL·Python 기반 ELT 오케스트레이션 수행)
 - Experienced with cloud-native analytics architecture (BigQuery, GCS) and star-schema optimization for BI scalability.       
-  (BigQuery·GCS 중심의 클라우드 데이터 마트 설계 및 BI 확장성 최적화(Star Schema) 경험)
+  (BigQuery·GCS 중심의 BI 레이어 집계 방식을 표준화 및 개인 프로젝트 BI 확장성 최적화(Star Schema) 경험)
 
 ### AI & Solution Architecture
 - Designed LLM based pipeline architecture integrating video description, consumer reaction, and report generation.        
@@ -135,6 +135,7 @@ Relevant Courses: Database Systems, OS, Networks, Algorithms, NLP
    (2022 ATC Family Meeting, Guest Visit (GV), Homecoming 행사의 기획 및 실행에 참여했습니다.)
 
 ---
+
 
 
 
