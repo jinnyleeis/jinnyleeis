@@ -80,8 +80,8 @@
 2024.01 – 2024.05 
 - Authored and reviewed HTML/CSS/JS learning materials, ensuring clarity and technical accuracy.        
   (HTML, CSS, JS 학습 자료를 집필하고 검수하여 명확성과 기술적 정확성을 보장했습니다.)
-- Designed and validated coding exercises on DOM manipulation and responsive design.       
-  (DOM 조작과 반응형 디자인에 관한 코딩 연습문제를 설계하고 검증했습니다.)
+- Designed and validated coding exercises on DOM manipulation.       
+  (DOM 조작에 관한 코딩 연습문제를 설계하고 검증했습니다.)
 ---
 
 ## 🎓 Education
