@@ -57,16 +57,8 @@
 2025.07 – 2025.10
  | Designed data engineering pipelines and analytics solutions, integrating LLMs to automate insight reporting.
 
-
-- Built **IG ETL pipelines** (Excel → Parquet → BigQuery), cutting preprocessing time **4h → 1h** with GCS orchestration (Step0–4).        
-- Implemented **MERGE-based DQ validation** ensuring **100% KPI consistency**.          
-- Refactored **timestamp-based recrawling logic** → redundant queries ↓40%.  
-- Integrated **Gemini Flash 2.0 Video LLM** to generate video descriptions & automate insight reports.
-
 ### **Ludens – Fullstack Engineer (Startup)**  
 2025.03 – 2025.07 | Developed full-stack features from database modeling to frontend UI
-
-
 - Designed ER Diagram based on business logic
 - Built a **BCNF-normalized MySQL schema (27 tables)** for a creator platform.    
 
@@ -75,8 +67,6 @@
 2024.01 – 2024.05 
 - Authored and reviewed HTML/CSS/JS learning materials, ensuring clarity and technical accuracy.        
   (HTML, CSS, JS 학습 자료를 집필하고 검수하여 명확성과 기술적 정확성을 보장했습니다.)
-- Designed and validated coding exercises on DOM manipulation.       
-  (DOM 조작에 관한 코딩 연습문제를 설계하고 검증했습니다.)
 ---
 
 ## 🎓 Education
@@ -130,6 +120,7 @@ Relevant Courses: Database Systems, OS, Networks, Algorithms, NLP
    (2022 ATC Family Meeting, Guest Visit (GV), Homecoming 행사의 기획 및 실행에 참여했습니다.)
 
 ---
+
 
 
 
