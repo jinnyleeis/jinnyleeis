@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Jiin Lee  
 
-### [포트폴리오로 이동하기](https://jiinlee-portfolio.vercel.app)
-
 
 ## 🧠 About Me
 - Analytical yet adaptable engineer who bridges data precision with creative insight.      
@@ -61,9 +59,7 @@
 
 
 - Built **IG ETL pipelines** (Excel → Parquet → BigQuery), cutting preprocessing time **4h → 1h** with GCS orchestration (Step0–4).        
-  [👉 대량의 Excel 데이터 기반 IG 댓글 온디맨드 배치 파이프라인 구축](https://jiinlee-portfolio.vercel.app/projects/1)
 - Implemented **MERGE-based DQ validation** ensuring **100% KPI consistency**.          
-  [👉 기간별 자산 리포트 개발과, 집계 로직과 정합성 리팩터링](https://jiinlee-portfolio.vercel.app/projects/4)) 
 - Refactored **timestamp-based recrawling logic** → redundant queries ↓40%.  
 - Integrated **Gemini Flash 2.0 Video LLM** to generate video descriptions & automate creative/consumer insight reports.
 
@@ -73,7 +69,6 @@
 
 - Designed ER Diagram based on business logic
 - Built a **BCNF-normalized MySQL schema (27 tables)** for a creator platform.    
-  [👉 팬 커뮤니티 후원·정산 플랫폼 – 스키마 설계(ERD→논리 환원→BCNF→물리 구현)](https://jiinlee-portfolio.vercel.app/projects/7)
 
 
 ### Ulift (Coding Valley) – Content Developer (Part-Time)‬
