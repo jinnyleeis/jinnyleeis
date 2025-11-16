@@ -20,12 +20,12 @@
   (BigQuery·GCS 중심의 BI 레이어 집계 방식을 표준화 및 개인 프로젝트 BI 확장성 최적화(Star Schema) 경험)
 
 ### AI & Solution Architecture
-- Designed LLM based pipeline architecture integrating video description, consumer reaction, and report generation.        
-  (LLM 기반 파이프라인 아키텍처 설계: 영상 설명–소비자 반응–리포트 생성 통합)
+- Designed LLM based pipeline architecture intjecting video description into report context.        
+  (LLM 기반 파이프라인 비디오 주입 아키텍처 설계)
 - Built evaluation framework for AI output validation, integrating results into analytics dashboards.      
-  (AI 결과 평가 프레임워크 구축 및 대시보드 연동)   
+  (AI 결과 평가 프레임워크 구축 및 대시보드 연동 - [ Bookie AI Travel Assistant ]
 - Led architectural design of AI Travel Assistant, connecting backend, LLM model layer, and RAG pipeline.     
-  (AI 여행 어시스턴트 백엔드 설계 및 LLM 파이프라인 통합 주도)
+  (AI 여행 어시스턴트 백엔드 설계 및 LLM 파이프라인 통합 주도) [ Bookie AI Travel Assistant ]
 
 ### Software & Platform Engineering
 - Developed modular, maintainable data systems with schema governance.     
@@ -61,7 +61,7 @@
 - Built **IG ETL pipelines** (Excel → Parquet → BigQuery), cutting preprocessing time **4h → 1h** with GCS orchestration (Step0–4).        
 - Implemented **MERGE-based DQ validation** ensuring **100% KPI consistency**.          
 - Refactored **timestamp-based recrawling logic** → redundant queries ↓40%.  
-- Integrated **Gemini Flash 2.0 Video LLM** to generate video descriptions & automate creative/consumer insight reports.
+- Integrated **Gemini Flash 2.0 Video LLM** to generate video descriptions & automate insight reports.
 
 ### **Ludens – Fullstack Engineer (Startup)**  
 2025.03 – 2025.07 | Developed full-stack features from database modeling to frontend UI
@@ -130,6 +130,7 @@ Relevant Courses: Database Systems, OS, Networks, Algorithms, NLP
    (2022 ATC Family Meeting, Guest Visit (GV), Homecoming 행사의 기획 및 실행에 참여했습니다.)
 
 ---
+
 
 
 
