@@ -14,8 +14,8 @@
 
 ### AI & Solution Architecture
 - Designed LLM based pipeline architecture intjecting video description into report context.        
-- Built evaluation framework for AI output validation, integrating results into analytics dashboards. [ Bookie AI Travel Assistant ]
-- Led architectural design of AI Travel Assistant, connecting backend, LLM model layer, and RAG pipeline. [ Bookie AI Travel Assistant ]
+- Built evaluation framework for AI output validation, integrating results into analytics dashboards. [👉Bookie AI Travel Assistant ](https://github.com/Bookie-Chatbot/backend-api-ai-monorepo)
+- Led architectural design of AI Travel Assistant, connecting backend, LLM model layer, and RAG pipeline. [👉Bookie AI Travel Assistant ](https://github.com/Bookie-Chatbot/backend-api-ai-monorepo)
 
 ### Software & Platform Engineering
 - Developed modular, maintainable data systems with schema governance.     
