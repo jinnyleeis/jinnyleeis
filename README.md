@@ -38,10 +38,10 @@
 
 ### **Kearney Korea – Digital Transformation Division (Research Analyst)**  
 2025.07 – 2025.10
- | Designed data engineering pipelines and analytics solutions, integrating LLMs to automate insight reporting.
+- Designed data engineering pipelines and analytics solutions, integrating LLMs to automate insight reporting.
 
 ### **Ludens – Fullstack Engineer (Startup)**  
-2025.03 – 2025.07 | Developed full-stack features from database modeling to frontend UI
+2025.03 – 2025.07 | Developed full-stack features from database modeling to frontend UI.    
 - Designed ER Diagram based on business logic
 
 ### Ulift (Coding Valley) – Content Developer (Part-Time)‬
