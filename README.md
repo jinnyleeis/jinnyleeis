@@ -26,7 +26,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, SQL, C, C++, Javascript, Typescript
+- **Languages**: Python, SQL, bash, C, C++, Javascript, Typescript
 - **Cloud & Data**: BigQuery, GCS, MySQL, Pandas  
 - **AI / LLM**: Gemini Flash 2.0, OpenAI, LangChain, LangGraph  
 - **Frameworks/Library**: Streamlit, FastAPI, Next.js
