@@ -89,9 +89,9 @@ Relevant Courses: Database Systems, OS, Networks, Algorithms, NLP
 ### Sogang Univ. Art and Technology Conference 2022 — Event Planning Team‬
 - Participated in planning and execution of 2022 ATC’s Family Meeting, Guest Visit (GV), and‬
 ‭ Homecoming events.       
-   (2022 ATC Family Meeting, Guest Visit (GV), Homecoming 행사의 기획 및 실행에 참여했습니다.)
 
 ---
+
 
 
 
